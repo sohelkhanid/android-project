@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.monir.searchmistry.Golshan">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_marginBottom="20sp"
+                android:background="#d2ef2b"
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="500dp">
+                <ImageView
+                    android:layout_width="300dp"
+                    android:layout_height="350dp"
+                    android:src="@drawable/benzir"
+                    android:layout_marginLeft="40dp"
+                    />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Benzir"
+                    android:textSize="25sp"
+                    android:textStyle="bold"
+                    android:textAlignment="center"
+                    />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textStyle="bold"
+                    android:textSize="20sp"
+                    android:text="mirpur-1, kachabazar,dhaka-1216 "
+                    android:textAlignment="center"
+                    /><TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:textSize="20sp"
+                android:text="Expeeience: 7 years "
+                android:textAlignment="center"
+                />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textStyle="bold"
+                    android:textSize="20sp"
+                    android:text="Mobile: 01614857595"
+                    android:textAlignment="center"
+                    />
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_marginBottom="20sp"
+                android:background="#d2ef2b"
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="500dp">
+                <ImageView
+                    android:layout_width="300dp"
+                    android:layout_height="350dp"
+                    android:src="@drawable/monir"
+                    android:layout_marginLeft="40dp"
+                    />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Monir hosen"
+                    android:textSize="25sp"
+                    android:textStyle="bold"
+                    android:textAlignment="center"
+                    />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textStyle="bold"
+                    android:textSize="20sp"
+                    android:text="mirpur-6, kachabazar,dhaka-1216 "
+                    android:textAlignment="center"
+                    /><TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:textSize="20sp"
+                android:text="Expeeience: 4 years "
+                android:textAlignment="center"
+                />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textStyle="bold"
+                    android:textSize="20sp"
+                    android:text="Mobile: 01614857595"
+                    android:textAlignment="center"
+                    />
+
+
+            </LinearLayout>
+            <LinearLayout
+                android:layout_marginBottom="20sp"
+                android:background="#d2ef2b"
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="500dp">
+                <ImageView
+                    android:layout_width="300dp"
+                    android:layout_height="350dp"
+                    android:src="@drawable/rahim"
+                    android:layout_marginLeft="40dp"
+                    />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Abdur rahim"
+                    android:textSize="25sp"
+                    android:textStyle="bold"
+                    android:textAlignment="center"
+                    />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textStyle="bold"
+                    android:textSize="20sp"
+                    android:text="mirpur-11, kachabazar,dhaka-1216 "
+                    android:textAlignment="center"
+                    /><TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:textSize="20sp"
+                android:text="Expeeience: 10 years "
+                android:textAlignment="center"
+                />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textStyle="bold"
+                    android:textSize="20sp"
+                    android:text="Mobile: 01614857595"
+                    android:textAlignment="center"
+                    />
+
+
+            </LinearLayout>
+            <LinearLayout
+                android:layout_marginBottom="20sp"
+                android:background="#d2ef2b"
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="500dp">
+                <ImageView
+                    android:layout_width="300dp"
+                    android:layout_height="350dp"
+                    android:src="@drawable/lipo"
+                    android:layout_marginLeft="40dp"
+                    />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Lipo"
+                    android:textSize="25sp"
+                    android:textStyle="bold"
+                    android:textAlignment="center"
+                    />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textStyle="bold"
+                    android:textSize="20sp"
+                    android:text="mirpur-6,Mosjidbazar ,dhaka-1216 "
+                    android:textAlignment="center"
+                    /><TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:textSize="20sp"
+                android:text="Expeeience: 10 years "
+                android:textAlignment="center"
+                />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textStyle="bold"
+                    android:textSize="20sp"
+                    android:text="Mobile: 01614857595"
+                    android:textAlignment="center"
+                    />
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_marginBottom="20sp"
+                android:background="#d2ef2b"
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="500dp">
+                <ImageView
+                    android:layout_width="300dp"
+                    android:layout_height="350dp"
+                    android:src="@drawable/hasan"
+                    android:layout_marginLeft="40dp"
+                    />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Mahamudul Hasan"
+                    android:textSize="25sp"
+                    android:textStyle="bold"
+                    android:textAlignment="center"
+                    />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textStyle="bold"
+                    android:textSize="20sp"
+                    android:text="mirpur-11, pakabazar,dhaka-1216 "
+                    android:textAlignment="center"
+                    />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textStyle="bold"
+                    android:textSize="20sp"
+                    android:text="Mobile: 01571-790173"
+                    android:textAlignment="center"
+                    />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textStyle="bold"
+                    android:textSize="20sp"
+                    android:text="Experience 5 years"
+                    android:textAlignment="center"
+                    />
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_marginBottom="20sp"
+                android:background="#d2ef2b"
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="500dp">
+                <ImageView
+                    android:layout_width="300dp"
+                    android:layout_height="350dp"
+                    android:src="@drawable/benzir"
+                    android:layout_marginLeft="40dp"
+                    />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Benzir"
+                    android:textSize="25sp"
+                    android:textStyle="bold"
+                    android:textAlignment="center"
+                    />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textStyle="bold"
+                    android:textSize="20sp"
+                    android:text="mirpur-1, kachabazar,dhaka-1216 "
+                    android:textAlignment="center"
+                    /><TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:textSize="20sp"
+                android:text="Expeeience: 7 years "
+                android:textAlignment="center"
+                />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textStyle="bold"
+                    android:textSize="20sp"
+                    android:text="Mobile: 01614857595"
+                    android:textAlignment="center"
+                    />
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_marginBottom="20sp"
+                android:background="#d2ef2b"
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="500dp">
+                <ImageView
+                    android:layout_width="300dp"
+                    android:layout_height="350dp"
+                    android:src="@drawable/monir"
+                    android:layout_marginLeft="40dp"
+                    />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Monir hosen"
+                    android:textSize="25sp"
+                    android:textStyle="bold"
+                    android:textAlignment="center"
+                    />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textStyle="bold"
+                    android:textSize="20sp"
+                    android:text="mirpur-6, kachabazar,dhaka-1216 "
+                    android:textAlignment="center"
+                    /><TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:textSize="20sp"
+                android:text="Expeeience: 4 years "
+                android:textAlignment="center"
+                />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textStyle="bold"
+                    android:textSize="20sp"
+                    android:text="Mobile: 01614857595"
+                    android:textAlignment="center"
+                    />
+
+
+            </LinearLayout>
+
+
+
+            <LinearLayout
+                android:layout_marginBottom="20sp"
+                android:background="#d2ef2b"
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="500dp">
+                <ImageView
+                    android:layout_width="300dp"
+                    android:layout_height="350dp"
+                    android:src="@drawable/shamim"
+                    android:layout_marginLeft="40dp"
+                    />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Shamim Ahmed"
+                    android:textSize="25sp"
+                    android:textStyle="bold"
+                    android:textAlignment="center"
+                    />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textStyle="bold"
+                    android:textSize="20sp"
+                    android:text="mirpur-10, dhaka-1216 "
+                    android:textAlignment="center"
+                    /><TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:textSize="20sp"
+                android:text="Expeeience: 8 years "
+                android:textAlignment="center"
+                />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textStyle="bold"
+                    android:textSize="20sp"
+                    android:text="Mobile: 01614857595"
+                    android:textAlignment="center"
+                    />
+
+
+            </LinearLayout>
+
+
+
+            <LinearLayout
+                android:layout_marginBottom="20sp"
+                android:background="#d2ef2b"
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="500dp">
+                <ImageView
+                    android:layout_width="300dp"
+                    android:layout_height="350dp"
+                    android:src="@drawable/sami"
+                    android:layout_marginLeft="40dp"
+                    />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Sami"
+                    android:textSize="25sp"
+                    android:textStyle="bold"
+                    android:textAlignment="center"
+                    />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textStyle="bold"
+                    android:textSize="20sp"
+                    android:text="mirpur-13, kachabazar,dhaka-1216 "
+                    android:textAlignment="center"
+                    /><TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:textSize="20sp"
+                android:text="Expeeience: 2 years "
+                android:textAlignment="center"
+                />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textStyle="bold"
+                    android:textSize="20sp"
+                    android:text="Mobile: 01614857595"
+                    android:textAlignment="center"
+                    />
+
+
+            </LinearLayout>
+            <LinearLayout
+                android:layout_marginBottom="20sp"
+                android:background="#d2ef2b"
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="500dp">
+                <ImageView
+                    android:layout_width="300dp"
+                    android:layout_height="350dp"
+                    android:src="@drawable/sohel"
+                    android:layout_marginLeft="40dp"
+                    />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Sohel Khan"
+                    android:textSize="25sp"
+                    android:textStyle="bold"
+                    android:textAlignment="center"
+                    />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textStyle="bold"
+                    android:textSize="20sp"
+                    android:text="mirpur-11, kachabazar,dhaka-1216 "
+                    android:textAlignment="center"
+                    /><TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:textSize="20sp"
+                android:text="Expeeience: 10 years "
+                android:textAlignment="center"
+                />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textStyle="bold"
+                    android:textSize="20sp"
+                    android:text="Mobile: 01723336177"
+                    android:textAlignment="center"
+                    />
+
+
+            </LinearLayout>
+            <LinearLayout
+                android:layout_marginBottom="20sp"
+                android:background="#d2ef2b"
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="500dp">
+                <ImageView
+                    android:layout_width="300dp"
+                    android:layout_height="350dp"
+                    android:src="@drawable/nasrin"
+                    android:layout_marginLeft="40dp"
+                    />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Nasrin Aktar"
+                    android:textSize="25sp"
+                    android:textStyle="bold"
+                    android:textAlignment="center"
+                    />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textStyle="bold"
+                    android:textSize="20sp"
+                    android:text="mirpur-11, kachabazar,dhaka-1216 "
+                    android:textAlignment="center"
+                    /><TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:textSize="20sp"
+                android:text="Expeeience: 4 years "
+                android:textAlignment="center"
+                />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textStyle="bold"
+                    android:textSize="20sp"
+                    android:text="Mobile: 01614857595"
+                    android:textAlignment="center"
+                    />
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_marginBottom="20sp"
+                android:background="#d2ef2b"
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="500dp">
+                <ImageView
+                    android:layout_width="300dp"
+                    android:layout_height="350dp"
+                    android:src="@drawable/masum"
+                    android:layout_marginLeft="40dp"
+                    />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Masum Billah"
+                    android:textSize="25sp"
+                    android:textStyle="bold"
+                    android:textAlignment="center"
+                    />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textStyle="bold"
+                    android:textSize="20sp"
+                    android:text="mirpur-11, kachabazar,dhaka-1216 "
+                    android:textAlignment="center"
+                    /><TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:textSize="20sp"
+                android:text="Expeeience: 10 years "
+                android:textAlignment="center"
+                />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textStyle="bold"
+                    android:textSize="20sp"
+                    android:text="Mobile: 01614857595"
+                    android:textAlignment="center"
+                    />
+
+
+            </LinearLayout>
+
+
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

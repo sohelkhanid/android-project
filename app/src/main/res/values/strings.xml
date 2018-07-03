@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">SearchMistry</string>
+    <string-array name="location">
+        <item>MIRPUR</item>
+        <item>DHANMONDI</item>
+        <item>MOHAMMADPUR</item>
+        <item>GOLISTAN</item>
+        <item>KAKOLI</item>
+        <item>BONANI</item>
+        <item>MOGBAZAR</item>
+    </string-array>
+
+    <string-array name="mistryType">
+        <item>ELECTRICIAN</item>
+        <item>KATH MISTRY</item>
+        <item>RAJ MISTRY</item>
+        <item>PLUMBER</item>
+        <item>RON MISTRY</item>
+        <item>SHATAR MISTRY</item>
+        <item>ELECTRICIAN</item>
+        <item>KATH MISTRY</item>
+        <item>RAJ MISTRY</item>
+        <item>PLUMBER</item>
+        <item>RON MISTRY</item>
+        <item>SHATAR MISTRY</item>
+    </string-array>
+</resources>

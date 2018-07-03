@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#05ed20"
+    tools:context="com.monir.searchmistry.Location">
+    <LinearLayout
+        android:weightSum="2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:padding="5sp"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="180dp">
+
+            <Button
+                android:id="@+id/mirpurButtonId"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/ic_launcher_background"
+                android:text="Mirpur"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+        </LinearLayout>
+        <LinearLayout
+            android:padding="5sp"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="180dp">
+
+            <Button
+                android:id="@+id/mohammadpurButtonId"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#dc5dead5"
+                android:text="Mohammadpur"
+                android:textSize="22sp"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+    </LinearLayout>
+    <LinearLayout
+        android:weightSum="2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:padding="5sp"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="180dp">
+
+            <Button
+                android:id="@+id/dhanmondiButtonId"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@android:color/holo_green_dark"
+                android:text="Dhanmondi"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+        </LinearLayout>
+        <LinearLayout
+            android:padding="5sp"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="180dp">
+
+            <Button
+                android:id="@+id/bonaniButtonId"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#dcea114f"
+                android:text="Bonani"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+    </LinearLayout>
+    <LinearLayout
+        android:weightSum="2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:padding="5sp"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="180dp">
+
+            <Button
+                android:id="@+id/golshanButtonId"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#dcfa1408"
+                android:text="Golshan"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+        </LinearLayout>
+        <LinearLayout
+            android:padding="5sp"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="180dp">
+
+            <Button
+                android:id="@+id/uttoraButton"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#dc6b11d1"
+                android:text="Uttora"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+    </LinearLayout>
+</LinearLayout>
